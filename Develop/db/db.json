@@ -7,5 +7,10 @@
         "title": "Hello",
         "text": "Good Sir",
         "id": "12c72629-1afd-4bb5-8f92-6e7cc0a32c24"
+    },
+    {
+        "title": "Test number 2",
+        "text": "new note!",
+        "id": "ed951bc7-f082-4cf7-b227-81d3ea199c5b"
     }
 ]
