@@ -2,7 +2,7 @@
   "name": "note-taker",
   "version": "1.0.0",
   "engines": {
-    "node": "18.9"
+    "node": "18.x"
   },
   "main": "server.js",
   "scripts": {
