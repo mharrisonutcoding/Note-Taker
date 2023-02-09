@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
@@ -12,6 +12,5 @@
     "uuidv4": "^6.2.13"
   },
   "keywords": [],
-  "description": "",
-  "heroku-run-build-script": true
+  "description": ""
 }
