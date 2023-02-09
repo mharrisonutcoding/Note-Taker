@@ -25,6 +25,10 @@ https://github.com/mharrisonutcoding/Note-Taker
 
 This application is covered under the MIT license.
 
+## Contributors
+
+-Adam Sherrill: https://github.com/ajsherrill2
+
 ## Questions
 
 If you have any questions contact me directly at mharrisonutcoding@gmail.com. You can find more of my work at [mharrisonutcoding](https://github.com/mharrisonutcoding/).
