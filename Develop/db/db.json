@@ -1,1 +1,11 @@
-[]
+[
+    {
+        "title": "Test Note Title",
+        "text": "Test Note"
+    },
+    {
+        "title": "Hello",
+        "text": "Good Sir",
+        "id": "12c72629-1afd-4bb5-8f92-6e7cc0a32c24"
+    }
+]
